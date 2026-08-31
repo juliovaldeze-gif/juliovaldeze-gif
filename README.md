@@ -68,8 +68,13 @@ I am currently focused on opportunities where I can combine deep Oracle PL/SQL e
 
 ## GitHub Activity
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliovaldeze-gif&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Julio's GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=juliovaldeze-gif&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Julio Valdez GitHub Statistics"
+  />
 </p>
 
 ---
