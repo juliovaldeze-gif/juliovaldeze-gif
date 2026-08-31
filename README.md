@@ -72,8 +72,19 @@ I am currently focused on opportunities where I can combine deep Oracle PL/SQL e
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=juliovaldeze-gif&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliovaldeze-gif&theme=github_dark"
+    alt="Julio Valdez GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliovaldeze-gif&theme=github_dark"
     alt="Julio Valdez GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliovaldeze-gif&theme=github_dark"
+    alt="Julio Valdez Languages by Repository"
   />
 </p>
 
